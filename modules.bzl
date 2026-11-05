@@ -64,6 +64,7 @@ COMMON_DRIVERS_MODULES = [
     "common_drivers/drivers/dvb_usbci/amlogic-usb-cam.ko",
     "common_drivers/drivers/gpio/amlogic-pinctrl-soc-s6.ko",
     "common_drivers/drivers/gpio/amlogic-pinctrl-soc-s7.ko",
+    "common_drivers/drivers/firmware/amlogic-bl40.ko",
     "common_drivers/drivers/google/google_usb_power_monitor.ko",
     "common_drivers/drivers/google/usb/typec/tcpm/google_tcpci.ko",
     "common_drivers/drivers/google/usb/typec/tcpm/google_tcpci_rt1711h.ko",
